@@ -1,0 +1,15 @@
+C:\Users\renzo\source\repos\dog years in human\dog years in human\bin\Debug\net8.0\dog years in human.exe
+C:\Users\renzo\source\repos\dog years in human\dog years in human\bin\Debug\net8.0\dog years in human.deps.json
+C:\Users\renzo\source\repos\dog years in human\dog years in human\bin\Debug\net8.0\dog years in human.runtimeconfig.json
+C:\Users\renzo\source\repos\dog years in human\dog years in human\bin\Debug\net8.0\dog years in human.dll
+C:\Users\renzo\source\repos\dog years in human\dog years in human\bin\Debug\net8.0\dog years in human.pdb
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.AssemblyInfo.cs
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.dll
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\refint\dog years in human.dll
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.pdb
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.genruntimeconfig.cache
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\ref\dog years in human.dll
+C:\Users\renzo\source\repos\dog years in human\dog years in human\obj\Debug\net8.0\dog years in human.sourcelink.json
